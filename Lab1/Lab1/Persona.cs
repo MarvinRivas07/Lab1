@@ -34,5 +34,9 @@ namespace Lab1
                 MessageBox.Show("Error", ex.Message);
             }
         }
+        public string mostrarPersona()
+        {
+            return "Nombre de la persona:" + Nombre + " " + "Apellido:" + Apellido+ " " + "Edad:" + edad;
+        }
     }
 }

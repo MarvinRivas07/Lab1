@@ -25,7 +25,7 @@ namespace Lab1
                     persona.Ingresar();
                     Departamento depto = new Departamento();
                     depto.seleccionarDepartamento();
-                    Console.WriteLine("Desea ingresar mas datos:");
+                    Console.WriteLine(persona.mostrarPersona());
                     
                     break;
                 default:

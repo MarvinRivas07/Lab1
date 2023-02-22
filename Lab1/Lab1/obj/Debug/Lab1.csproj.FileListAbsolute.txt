@@ -6,3 +6,11 @@ C:\Users\Marvi\Desktop\PROGRA lll\Lab1\Lab1\obj\Debug\Lab1.csproj.SuggestedBindi
 C:\Users\Marvi\Desktop\PROGRA lll\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
 C:\Users\Marvi\Desktop\PROGRA lll\Lab1\Lab1\obj\Debug\Lab1.exe
 C:\Users\Marvi\Desktop\PROGRA lll\Lab1\Lab1\obj\Debug\Lab1.pdb
+C:\Users\Marvi\Desktop\Lab1\Lab1\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\Marvi\Desktop\Lab1\Lab1\Lab1\bin\Debug\Lab1.exe
+C:\Users\Marvi\Desktop\Lab1\Lab1\Lab1\bin\Debug\Lab1.pdb
+C:\Users\Marvi\Desktop\Lab1\Lab1\Lab1\obj\Debug\Lab1.csproj.AssemblyReference.cache
+C:\Users\Marvi\Desktop\Lab1\Lab1\Lab1\obj\Debug\Lab1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marvi\Desktop\Lab1\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\Marvi\Desktop\Lab1\Lab1\Lab1\obj\Debug\Lab1.exe
+C:\Users\Marvi\Desktop\Lab1\Lab1\Lab1\obj\Debug\Lab1.pdb
