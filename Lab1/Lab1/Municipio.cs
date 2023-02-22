@@ -149,5 +149,33 @@ namespace Lab1
                     break;
             }
         }
+        public void Cabana()
+        {
+            Console.WriteLine("Seleccione el municipio \n1-Sensuntepeque \n2-Ilobasco \n3-San Isidro \n4-Victoria \n5-Dolores \n6-Cinquera");
+            int opcion = int.Parse(Console.ReadLine());
+            switch (opcion)
+            {
+                case 1:
+                    tipo = "Sensuntepeque";
+                    break;
+                case 2:
+                    tipo = "Ilobasco";
+                    break;
+                case 3:
+                    tipo = "San Isidro";
+                    break;
+                case 4:
+                    tipo = "Victoria";
+                    break;
+                case 5:
+                    tipo = "Dolores";
+                    break;
+                case 6:
+                    tipo = "Cinquera";
+                    break;
+                default:
+                    break;
+            }
+        }
     }
 }

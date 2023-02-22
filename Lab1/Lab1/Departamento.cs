@@ -39,6 +39,7 @@ namespace Lab1
                     break;
                 case 6:
                     tipo = "Cabañas";
+                    muni.Cabana();
                     break;
                 case 7:
                     tipo = "La Libertad";
