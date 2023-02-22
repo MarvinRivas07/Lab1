@@ -33,13 +33,5 @@ namespace Lab1
                     break;
             }
         }
-        public void Pregunta()
-        {
-            if (op == "si" )
-            {
-                Persona persona = new Persona();
-                persona.Ingresar();
-            }
-        }
     }
 }
